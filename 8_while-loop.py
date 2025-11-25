@@ -7,7 +7,7 @@ minNum=input("Enter your minimum number: ")
 maxNum=input("Enter your maximum nunber: ")
 print("My number is between {} and {}".format(minNum, maxNum))
 number=random.randint(int(minNum),int(maxNum))
-print(number)
+# print(number)
 
 isGuess=False
 
